@@ -4,6 +4,7 @@
   font-family: 'Poppins', sans-serif;
   }
 .yes {
+  margin-top: 10px;
   background-color: #31ed70;
   border: none;
   color: white;
@@ -18,6 +19,7 @@
   background-color: #28cc5f;
 }
 .no {
+  margin-top: 10px;
   background-color: #b2b2b2;
   border: none;
   color: white;
@@ -35,7 +37,6 @@
 
 <center><img src="logo.png" alt="Logo"></center>
 
-<br>
 <center><button class="yes"> Yes </button>
 <button class="no"> No </button></center>
 <br>
