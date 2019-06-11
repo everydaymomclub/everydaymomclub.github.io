@@ -3,7 +3,7 @@
   background-color: #30f284;
   border: none;
   color: white;
-  border-radius: 20%;
+  border-radius: 10%;
   padding: 15px 25px;
   text-align: center;
   font-size: 16px;
@@ -17,7 +17,7 @@
   background-color: #e51934;
   border: none;
   color: white;
-  border-radius: 20%;
+  border-radius: 10%;
   padding: 15px 25px;
   text-align: center;
   font-size: 16px;
@@ -29,7 +29,7 @@
 }
 </style>
 
-<center><img src="logo.png" alt="Logo" width="500" height="109"></img></center>
+<center><img src="logo.png" alt="Logo"></center>
 <br>
 <center><button class="yes"> Yes </button>
 <button class="no"> No </button></center>
