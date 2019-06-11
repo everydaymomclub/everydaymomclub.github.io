@@ -14,7 +14,7 @@
   background-color: #28cc5f;
 }
 .no {
-  background-color: #8c1524;
+  background-color: #b2b2b2;
   border: none;
   color: white;
   border-radius: 10%;
@@ -25,7 +25,7 @@
 }
 
 .no:hover {
-  background-color: #5b0c16;
+  background-color: #7c7c7c;
 }
 </style>
 
