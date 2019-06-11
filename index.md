@@ -30,7 +30,7 @@
 </style>
 
 <center><img src="logo.png" alt="Logo" width="500" height="109"></img></center>
-
+<br>
 <center><button class="yes"> Yes </button>
 <button class="no"> No </button></center>
 
