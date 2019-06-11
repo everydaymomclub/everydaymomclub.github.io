@@ -35,6 +35,8 @@
 
 <center><img src="logo.png" alt="Logo"></center>
 <br>
+
+
 <center><button class="yes"> Yes </button>
 <button class="no"> No </button></center>
 <br>
