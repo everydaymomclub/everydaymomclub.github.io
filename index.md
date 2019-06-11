@@ -1,6 +1,7 @@
-title: test
+## Would you like to join us?
 
-## Welcome to GitHub Pages
+<button> Yes </button>
+<button No </button>
 
 You can use the [editor on GitHub](https://github.com/everydaymomclub/everydaymomclub.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
