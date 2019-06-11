@@ -1,8 +1,9 @@
 <style>
 .yes {
-  background-color: #4CAF50;
+  background-color: #3aff99;
   border: none;
   color: white;
+  border-radius: 50%;
   padding: 15px 25px;
   text-align: center;
   font-size: 16px;
@@ -10,12 +11,13 @@
 }
 
 .yes:hover {
-  background-color: green;
+  background-color: #27dd7f;
 }
 .no {
-  background-color: #4CAF50;
+  background-color: #ff2d5b;
   border: none;
   color: white;
+  border-radius: 50%;
   padding: 15px 25px;
   text-align: center;
   font-size: 16px;
@@ -23,7 +25,7 @@
 }
 
 .no:hover {
-  background-color: green;
+  background-color: #b21537;
 }
 </style>
 <center><button class="yes"> Yes </button>
