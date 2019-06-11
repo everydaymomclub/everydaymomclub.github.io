@@ -30,8 +30,9 @@
 </style>
 
 <center><img src="logo.png" alt="Logo"></center>
-<br>
 <center><button class="yes"> Yes </button>
 <button class="no"> No </button></center>
+
+<br>
 
 Everyday Mom Club offers monthly samples from large companies, who giveaway products as advertisements. All you have to do is sign up and wait for your samples to arrive. Offer is valid in continental United States might expire once limits are reached.
