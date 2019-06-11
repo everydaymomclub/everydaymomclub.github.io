@@ -1,6 +1,6 @@
 <style>
 .yes {
-  background-color: #30f284;
+  background-color: #31ed70;
   border: none;
   color: white;
   border-radius: 10%;
@@ -11,10 +11,10 @@
 }
 
 .yes:hover {
-  background-color: #28d673;
+  background-color: #28cc5f;
 }
 .no {
-  background-color: #e51934;
+  background-color: #8c1524;
   border: none;
   color: white;
   border-radius: 10%;
@@ -25,7 +25,7 @@
 }
 
 .no:hover {
-  background-color: #c11128;
+  background-color: #5b0c16;
 }
 </style>
 
