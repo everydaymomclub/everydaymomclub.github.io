@@ -29,7 +29,7 @@ function goBack() {
   border-radius: 10%;
   padding: 20px 40px;
   text-align: center;
-  font-size: 16px;
+  font-size: 18px;
   cursor: pointer;
 }
 
@@ -44,7 +44,7 @@ function goBack() {
   border-radius: 10%;
   padding: 20px 40px;
   text-align: center;
-  font-size: 16px;
+  font-size: 18px;
   cursor: pointer;
 }
 
