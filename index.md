@@ -13,15 +13,10 @@
 
 <style>
  html {
+  font-family: 'Poppins', sans-serif;
   background-image: url("baby.jpg");
   background-repeat: no-repeat;
-  -webkit-background-size: 100% 100%;
-  -moz-background-size: 100% 100%;
-  -o-background-size:  100% 100%;
-  background-size:  100% 100%;
-  height: 100%;
-  width: 100%;
-  font-family: 'Poppins', sans-serif;
+  background-size: cover;
   }
  
 .site-footer {
