@@ -21,9 +21,10 @@
   }
  
 .page-header {
-    color: red;
+    color: #fffff;
     text-align: center;
-    background-color: #red;
+    background-color: #3f7072;
+    background-image: linear-gradient(120deg, #f46b42, #7b1b9b)
 }
  
 text {
