@@ -13,6 +13,7 @@
 
 <style>
  body {
+  background-color: linear-gradient(120deg, #9457e0, #f44bca);
   background-image: url("baby.jpg");
   background-repeat: no-repeat;
   background-position: center;
@@ -27,7 +28,7 @@
     color: #fffff;
     text-align: center;
     background-color: #7f797d;
-    background-image: linear-gradient(120deg, #9457e0, #f44bca)
+    background-image: linear-gradient(120deg, #9457e0, #f44bca);
 }
  
 text {
