@@ -37,6 +37,29 @@
     background-image: linear-gradient(120deg, #9457e0, #f44bca);
 }
 
+@media screen and (min-width: 64em) {
+    .page-header {
+        padding: 3rem 5rem
+    }
+}
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+    .page-header {
+        padding: 2rem 3rem
+    }
+}
+
+@media screen and (max-width: 42em) {
+    .page-header {
+        padding: 0.1rem 0.9rem
+    }
+}
+
+.project-name {
+    margin-top: -2rem;
+    margin-bottom: 0.1rem
+}
+
 text {
   color: white;
   }
@@ -69,5 +92,4 @@ text {
 <text>Everyday Mom Club offers monthly samples from large companies, who giveaway products as advertisements. All you have to do is sign up and wait for your samples to arrive. Offer is valid in continental United States might expire once limits are reached.</text>
 
 <br>
-<br>
-<br>
+
