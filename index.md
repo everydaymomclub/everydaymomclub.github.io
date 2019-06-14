@@ -27,6 +27,7 @@
  
 .site-footer {
    visibility: hidden;
+   max-height: 0px;
  }
  
 .project-name {
