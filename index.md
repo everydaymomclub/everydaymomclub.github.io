@@ -30,6 +30,54 @@
    max-height: 0px;
  }
 
+.page-header {
+    color: #fffff;
+    text-align: center;
+    background-color: #7f797d;
+    background-image: linear-gradient(120deg, #9457e0, #f44bca);
+}
+
+@media screen and (min-width: 64em) {
+    .page-header {
+        padding: 3rem 6rem
+    }
+}
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+    .page-header {
+        padding: 2rem 4rem
+    }
+}
+
+@media screen and (max-width: 42em) {
+    .page-header {
+        padding: 1rem 1rem
+    }
+}
+
+.project-name {
+    margin-top: -3rem;
+    margin-bottom: 0.1rem
+}
+
+@media screen and (min-width: 64em) {
+    .project-name {
+        font-size: 2.8rem
+    }
+}
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+    .project-name {
+        font-size: 2.5rem
+    }
+}
+
+@media screen and (max-width: 42em) {
+    .project-name {
+        font-size: 2rem
+    }
+}
+
 text {
   color: white;
   }
