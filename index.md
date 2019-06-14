@@ -13,11 +13,12 @@
 
 <style>
  body {
-  background-image: url("baby.jpg");
+  background-image: url("baby.jpg") 100% 100%;
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
   width: 100%;
+  margin: 0;
   font-family: 'Poppins', sans-serif;
   }
  
