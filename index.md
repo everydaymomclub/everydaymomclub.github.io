@@ -20,7 +20,7 @@
   font-family: 'Poppins', sans-serif;
   }
   
-  h1 {
+ #h1 {
   color: white;
   }
   
