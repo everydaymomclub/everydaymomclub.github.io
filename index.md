@@ -39,24 +39,24 @@
 
 @media screen and (min-width: 64em) {
     .page-header {
-        padding: 3rem 6rem
+        padding: 3rem 5.5rem
     }
 }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
     .page-header {
-        padding: 2rem 4rem
+        padding: 2rem 3.5rem
     }
 }
 
 @media screen and (max-width: 42em) {
     .page-header {
-        padding: 1rem 1rem
+        padding: 1rem 0.5rem
     }
 }
 
 .project-name {
-    margin-top: -0.1rem;
+    margin-top: 0.3rem;
     margin-bottom: 0.1rem
 }
 
