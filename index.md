@@ -58,8 +58,8 @@ box {
   padding: 50px;
   margin: auto;
   width: 50%;
-  margin-top: 2vw;
-  margin-bottom: 2vw;
+  margin-top: 100px;
+  margin-bottom: 100px;
   border-radius: 20px;
   position: absolute;
 }
