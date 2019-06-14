@@ -13,16 +13,15 @@
 
 <style>
  body {
-  background-color: linear-gradient(120deg, #9457e0, #f44bca);
   background-image: url("baby.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
   background-size: cover;
-  position: relative;
   height: 100%;
   width: 100%;
   font-family: 'Poppins', sans-serif;
   }
+ 
+.site-footer {
+    visibility: hidden;
  
 .page-header {
     color: #fffff;
