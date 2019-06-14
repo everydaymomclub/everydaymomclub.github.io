@@ -20,10 +20,10 @@
   font-family: 'Poppins', sans-serif;
   }
  
-#page-header {
-  color: red;
-  background: red;
-  background-color: red;
+.page-header {
+    color: red;
+    text-align: center;
+    background-color: #red;
 }
  
 text {
