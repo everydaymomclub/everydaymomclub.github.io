@@ -55,11 +55,6 @@ div.box {
   opacity: 0.5;
 }
 
-div.box text {
-  margin: 5%;
-  color: white;
-}
-
 </style>
 
 <div class="box">  
