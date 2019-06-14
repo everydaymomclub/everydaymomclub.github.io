@@ -29,11 +29,11 @@
  
 text {
   color: white;
-  margin-top: 20px;
   }
   
 .join {
   margin-top: 20px;
+  margin-bottom: 20px;
   background-color: #31ed70;
   border: none;
   color: white;
