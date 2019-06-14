@@ -13,12 +13,11 @@
 
 <style>
  body {
-  background-image: url("baby.jpg") 100% 100%;
+  background-image: url("baby.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
   width: 100%;
-  margin: 0;
   font-family: 'Poppins', sans-serif;
   }
  
@@ -51,14 +50,7 @@ text {
 }
 
 box {
-  background: rgba(100, 10, 10, 0.7);
-  width: 300px;
-  height: 250px;
-  border-radius: 30px;
-  text-align: center;
-  line-height: 250px;
-  color: white;
-  margin: 0 auto;;
+
 }
 
 </style>
