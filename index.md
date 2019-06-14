@@ -51,11 +51,13 @@ text {
 div.box {
   margin: 30px;
   background-color: #ffffff;
-  opacity: 0.5;
+  opacity: 0.8;
 }
 
 div.box text {
   margin: 5%;
+  opacity: 0;
+  color: white;
 }
 
 </style>
