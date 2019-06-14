@@ -24,8 +24,12 @@
   }
  
 .site-footer {
-    visibility: hidden;
+   visibility: hidden;
  }
+ 
+.project-name {
+   margin-bottom: 10px;
+}
  
 .page-header {
     color: #fffff;
