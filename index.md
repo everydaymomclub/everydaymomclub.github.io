@@ -51,7 +51,7 @@
 
 @media screen and (max-width: 42em) {
     .page-header {
-        padding: 0.1rem 1rem
+        padding: 0.01rem 1rem
     }
 }
 
@@ -80,6 +80,7 @@
 
 text {
   color: white;
+  font-size: 18px;
   }
   
 .join {
@@ -91,7 +92,7 @@ text {
   border-radius: 15px;
   padding: 20px 40px;
   text-align: center;
-  font-size: 18px;
+  font-size: 22px;
   cursor: pointer;
 }
 
