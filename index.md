@@ -51,8 +51,8 @@ text {
 
 div.box {
   margin: 30px;
-  background-color: #00000;
-  opacity: 0.1;
+  background-color: black;
+  opacity: 0.5;
 }
 
 div.box text {
