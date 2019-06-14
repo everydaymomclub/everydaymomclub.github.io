@@ -7,16 +7,10 @@
 
   gtag('config', 'UA-141839667-1');
 </script>
-<script src="gradient.js"></script>
 </head>
 
 <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
 
-<script>
-function goBack() {
-  window.history.back();
-}
-</script>
 <style>
  body {
   background: logo.png;
@@ -38,17 +32,8 @@ function goBack() {
   background-color: #28cc5f;
 }
 
-#gradient
-{
- width: 100%;
- padding: 0px;
- margin: 0px;
- min-height: 100%;
-}
-
 </style>
 
-<div id="gradient"></div>
   
 <center><img src="logo.png" alt="Logo"></center>
 
