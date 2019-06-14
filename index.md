@@ -17,6 +17,7 @@
   -webkit-background-size: 100% 100%;
   -moz-background-size: 100% 100%;
   -o-background-size:  100% 100%;
+  background-repeat: no-repeat;
   background-size:  100% 100%;
   height: 100%;
   width: 100%;
