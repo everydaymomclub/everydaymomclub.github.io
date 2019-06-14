@@ -48,9 +48,20 @@ text {
   background-color: #28cc5f;
 }
 
+div.box {
+  margin: 30px;
+  background-color: #ffffff;
+  opacity: 0.5;
+}
+
+div.box text {
+  margin: 5%;
+}
+
 </style>
 
-  
+<div class="box">  
+
 <center><img src="logo.png" alt="Logo"></center>
 
 <center><button class="join" onclick="window.location.href='https://www.mb102.com/lnk.asp?o=12088&c=918277&a=377858&k=791E65D0D0DC26543A895BB2781F8F00&l=12366'"> Join </button>
@@ -58,3 +69,5 @@ text {
 <br>
 
 <text>Everyday Mom Club offers monthly samples from large companies, who giveaway products as advertisements. All you have to do is sign up and wait for your samples to arrive. Offer is valid in continental United States might expire once limits are reached.</text>
+
+</div>
