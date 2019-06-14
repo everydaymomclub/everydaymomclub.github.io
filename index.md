@@ -39,7 +39,7 @@
 
 text {
   color: white;
-  margin-bottom: 200px;
+  margin-bottom: 20rem;
   }
   
 .join {
