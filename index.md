@@ -26,7 +26,7 @@ function goBack() {
   background-color: #31ed70;
   border: none;
   color: white;
-  border-radius: 10%;
+  border-radius: 15px;
   padding: 20px 40px;
   text-align: center;
   font-size: 18px;
