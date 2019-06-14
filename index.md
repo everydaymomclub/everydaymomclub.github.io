@@ -31,7 +31,7 @@
  }
  
 .project-name {
-   margin-bottom: 10px;
+   top: 10px;
 }
  
 .page-header {
