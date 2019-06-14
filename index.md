@@ -43,6 +43,24 @@
     background-image: linear-gradient(120deg, #9457e0, #f44bca);
 }
  
+@media screen and (min-width: 64em) {
+    .page-header {
+        padding: 4rem 6rem
+    }
+}
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+    .page-header {
+        padding: 3rem 4rem
+    }
+}
+
+@media screen and (max-width: 42em) {
+    .page-header {
+        padding: 0.2rem 1rem
+    }
+}
+ 
 text {
   color: white;
   }
