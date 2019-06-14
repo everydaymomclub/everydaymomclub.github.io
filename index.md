@@ -56,7 +56,7 @@
 }
 
 .project-name {
-    margin-top: -3rem;
+    margin-top: -1rem;
     margin-bottom: 0.1rem
 }
 
