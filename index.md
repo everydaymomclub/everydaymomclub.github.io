@@ -19,8 +19,14 @@
   width: 100%;
   font-family: 'Poppins', sans-serif;
   }
-  
- text {
+ 
+#page-header {
+  color: red;
+  background: red;
+  background-color: red;
+}
+ 
+text {
   color: white;
   margin-top: 15%;
   }
