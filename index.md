@@ -13,7 +13,8 @@
 
 <style>
  body {
-  background-image:url("logo.png");
+  background-image: url("logo.png");
+  background-size: cover;
   font-family: 'Poppins', sans-serif;
   }
 .join {
