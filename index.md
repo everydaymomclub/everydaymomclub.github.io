@@ -49,15 +49,20 @@ text {
   background-color: #28cc5f;
 }
 
-div.box {
-  margin: 30px;
-  background-color: black;
-  opacity: 0.5;
+box {
+  background: rgba(100, 10, 10, 0.7);
+  width: 300px;
+  height: 250px;
+  border-radius: 30px;
+  text-align: center;
+  line-height: 250px;
+  color: white;
+  margin: 0 auto;;
 }
 
 </style>
 
-<div class="box">  
+<box>
 
 <center><img src="logo.png" alt="Logo"></center>
 
@@ -65,4 +70,4 @@ div.box {
 
 <br>
 
-<text>Everyday Mom Club offers monthly samples from large companies, who giveaway products as advertisements. All you have to do is sign up and wait for your samples to arrive. Offer is valid in continental United States might expire once limits are reached.</text></div>
+<text>Everyday Mom Club offers monthly samples from large companies, who giveaway products as advertisements. All you have to do is sign up and wait for your samples to arrive. Offer is valid in continental United States might expire once limits are reached.</text></box>
