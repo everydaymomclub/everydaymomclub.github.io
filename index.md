@@ -50,9 +50,7 @@ function goBack() {
 
 </style>
 
-<body>
 <div id="gradient"></div>
-</body>
   
 <center><img src="logo.png" alt="Logo"></center>
 
