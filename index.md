@@ -17,6 +17,7 @@
   background-image: url("baby.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  background-color: red;
   }
  
 .site-footer {
