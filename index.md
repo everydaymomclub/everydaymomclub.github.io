@@ -30,7 +30,8 @@
 .page-header {
     color: #fffff;
     text-align: center;
-    max-height: 1vw;
+    max-height: 2vw;
+    padding: 10px 10px 10px 10px;
     background-color: #7f797d;
     background-image: linear-gradient(120deg, #9457e0, #f44bca);
 }
