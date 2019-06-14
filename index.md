@@ -51,13 +51,11 @@ text {
 div.box {
   margin: 30px;
   background-color: #ffffff;
-  opacity: 0.8;
 }
 
 div.box text {
   margin: 5%;
-  opacity: 0;
-  color: white;
+  color: black;
 }
 
 </style>
@@ -71,5 +69,3 @@ div.box text {
 <br>
 
 <text>Everyday Mom Club offers monthly samples from large companies, who giveaway products as advertisements. All you have to do is sign up and wait for your samples to arrive. Offer is valid in continental United States might expire once limits are reached.</text>
-
-</div>
