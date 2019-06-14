@@ -23,8 +23,8 @@
 .page-header {
     color: #fffff;
     text-align: center;
-    background-color: #3f7072;
-    background-image: linear-gradient(120deg, #f46b42, #7b1b9b)
+    background-color: #7f797d;
+    background-image: linear-gradient(120deg, #9457e0, #f44bca)
 }
  
 text {
