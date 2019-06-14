@@ -39,7 +39,8 @@
 
 text {
   color: white;
-  margin-bottom: 20rem;
+  margin-bottom: 2000px;
+  padding-bottom: 1000px;
   }
   
 .join {
