@@ -12,13 +12,9 @@
 <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
 
 <style>
- body {
+ html {
   background-image: url("baby.jpg");
-  -webkit-background-size: 100% 100%;
-  -moz-background-size: 100% 100%;
-  -o-background-size:  100% 100%;
   background-repeat: no-repeat;
-  background-size:  100% 100%;
   height: 100%;
   width: 100%;
   font-family: 'Poppins', sans-serif;
