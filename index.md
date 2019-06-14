@@ -60,6 +60,24 @@
     margin-bottom: 0.1rem
 }
 
+@media screen and (min-width: 64em) {
+    .project-name {
+        font-size: 2.8rem
+    }
+}
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+    .project-name {
+        font-size: 2.5rem
+    }
+}
+
+@media screen and (max-width: 42em) {
+    .project-name {
+        font-size: 2rem
+    }
+}
+
 text {
   color: white;
   }
