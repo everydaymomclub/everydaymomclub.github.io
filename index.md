@@ -58,10 +58,8 @@ box {
   padding: 50px;
   margin: auto;
   width: 50%;
-  margin-top: 100px;
-  margin-bottom: 100px;
   border-radius: 20px;
-  position: absolute;
+  position: relative;
 }
 
 </style>
