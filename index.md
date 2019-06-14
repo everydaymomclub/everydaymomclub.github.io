@@ -29,7 +29,7 @@
  
 text {
   color: white;
-  margin-top: 15%;
+  margin-top: 20px;
   }
   
 .join {
