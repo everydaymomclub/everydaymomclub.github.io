@@ -17,7 +17,7 @@
   background-image: url("baby.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: red;
+  background-color: linear-gradient(120deg, #9457e0, #f44bca);
   }
  
 .site-footer {
@@ -28,7 +28,7 @@
     color: #fffff;
     text-align: center;
     background-color: #7f797d;
-    background-image: linear-gradient(120deg, #9457e0, #f44bca)
+    background-image: linear-gradient(120deg, #9457e0, #f44bca);
 }
  
 text {
