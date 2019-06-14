@@ -29,7 +29,7 @@
 }
  
 text {
-  color: white;
+  color: black;
   }
   
 .join {
