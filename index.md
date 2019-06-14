@@ -52,7 +52,7 @@ text {
 div.box {
   margin: 30px;
   background-color: #00000;
-  opacity: 90%;
+  opacity: 0.1;
 }
 
 div.box text {
