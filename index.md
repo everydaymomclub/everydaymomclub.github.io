@@ -31,7 +31,8 @@
  }
  
 .project-name {
-   top: 10px;
+   margin-top: -3rem;
+   margin-bottom: 0.1rem
 }
  
 .page-header {
