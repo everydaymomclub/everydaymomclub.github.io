@@ -50,7 +50,16 @@ text {
 }
 
 box {
-
+  color: #1e1e1e;
+  text-align: center;
+  font-size: 23px;
+  background-color: rgba(255, 255, 255, 0.8);
+  min-width: 65vw;
+  padding: 50px;
+  margin: auto;
+  width: 50%;
+  margin-top: 2vw;
+  border-radius: 20px;
 }
 
 </style>
