@@ -21,6 +21,7 @@ function goBack() {
 </script>
 <style>
  body {
+  background: logo.png;
   font-family: 'Poppins', sans-serif;
   }
 .join {
@@ -38,6 +39,15 @@ function goBack() {
 .join:hover {
   background-color: #28cc5f;
 }
+
+#gradient
+{
+ width: 100%;
+ padding: 0px;
+ margin: 0px;
+ min-height: 100%;
+}
+
 </style>
 
 <body>
