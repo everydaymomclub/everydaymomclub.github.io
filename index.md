@@ -29,7 +29,7 @@
 }
  
 text {
-  color: black;
+  color: white;
   }
   
 .join {
@@ -49,22 +49,7 @@ text {
   background-color: #28cc5f;
 }
 
-box {
-  color: #1e1e1e;
-  text-align: center;
-  font-size: 23px;
-  background-color: rgba(255, 255, 255, 0.8);
-  min-width: 65vw;
-  padding: 50px;
-  margin: auto;
-  width: 50%;
-  border-radius: 20px;
-  position: relative;
-}
-
 </style>
-
-<box>
 
 <center><img src="logo.png" alt="Logo"></center>
 
