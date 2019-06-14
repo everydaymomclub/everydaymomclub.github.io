@@ -71,6 +71,3 @@ text {
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
