@@ -51,7 +51,7 @@
 
 @media screen and (max-width: 42em) {
     .page-header {
-        padding: 0.1rem 0.9rem
+        padding: 2rem 0.9rem
     }
 }
 
