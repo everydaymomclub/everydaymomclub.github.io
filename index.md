@@ -12,12 +12,15 @@
 <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
 
 <style>
- html {
-  font-family: 'Poppins', sans-serif;
+ body {
   background-image: url("baby.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: linear-gradient(120deg, #9457e0, #f44bca);
+  }
+  
+ html {
+  font-family: 'Poppins', sans-serif;
+  background-image: linear-gradient(120deg, #9457e0, #f44bca);
   }
  
 .site-footer {
