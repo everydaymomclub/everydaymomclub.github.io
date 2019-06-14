@@ -16,6 +16,8 @@
   background-image: url("baby.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  width: 100%;
+  height: 100%;
   }
   
  html {
@@ -34,6 +36,7 @@
 .page-header {
     color: #fffff;
     text-align: center;
+    max-height: 50px;
     background-color: #7f797d;
     background-image: linear-gradient(120deg, #9457e0, #f44bca);
 }
