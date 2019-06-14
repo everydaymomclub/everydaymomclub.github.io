@@ -50,12 +50,13 @@ text {
 
 div.box {
   margin: 30px;
-  background-color: #ffffff;
+  background-color: #00000;
+  opacity: 90%;
 }
 
 div.box text {
   margin: 5%;
-  color: black;
+  color: white;
 }
 
 </style>
