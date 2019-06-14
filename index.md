@@ -31,27 +31,27 @@
  }
  
 .page-header {
-    color: #fffff;
+    color: #fff;
     text-align: center;
-    background-color: #7f797d;
-    background-image: linear-gradient(120deg, #9457e0, #f44bca);
+    background-color: #159957;
+    background-image: linear-gradient(120deg, #155799, #159957)
 }
 
 @media screen and (min-width: 64em) {
     .page-header {
-        padding: 3rem 5rem
+        padding: 3rem 6rem
     }
 }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
     .page-header {
-        padding: 2rem 3rem
+        padding: 2rem 4rem
     }
 }
 
 @media screen and (max-width: 42em) {
     .page-header {
-        padding: 2rem 0.9rem
+        padding: 2rem 1rem
     }
 }
 
