@@ -15,7 +15,7 @@
  body {
   background-image: url("baby.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: stretch;
   height: 100%;
   width: 100%;
   font-family: 'Poppins', sans-serif;
