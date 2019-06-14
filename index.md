@@ -34,7 +34,6 @@
 .page-header {
     color: #fffff;
     text-align: center;
-    max-height: 2vw;
     background-color: #7f797d;
     background-image: linear-gradient(120deg, #9457e0, #f44bca);
 }
