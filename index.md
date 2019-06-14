@@ -13,8 +13,10 @@
 
 <style>
  body {
-  background-image: url("baby.png");
+  background-image: url("baby.jpg");
   background-size: cover;
+  height: 100%;
+  width: 100%;
   font-family: 'Poppins', sans-serif;
   }
 .join {
